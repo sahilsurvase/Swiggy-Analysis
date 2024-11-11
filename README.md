@@ -7,7 +7,7 @@ This project is an in-depth exploration and analysis of the popular food deliver
 * **[Python](https://www.python.org/):** Utilized for data analysis, visualization, and modeling.
 * **[Pandas](https://pandas.pydata.org/pandas-docs/stable/):** Leveraged for data manipulation and numerical operations.
 * **[Matplotlib](https://matplotlib.org/stable/contents.html):** Used for creating visualizations to present key findings.
-* **[Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/):** Employed for an interactive and collaborative analysis environment.
+* **[Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/):** Employed for an interactive and collaborative analysis environment..
 
 ## Project Impact:
 The Swiggy Analysis project provides a comprehensive understanding of the dynamic food delivery landscape in India. By extracting actionable insights, the project aims to contribute to the optimization of Swiggy's services, enhance customer experience, and inform strategic decision-making for sustainable growth.
